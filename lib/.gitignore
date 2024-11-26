@@ -1,0 +1,29 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.package
+.pub-cache/
+.pub/
+
+# Gradle
+.gradle/
+build/
+
+# Generated IntelliJ project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Linux
+*.lock
+
+# Windows
+Thumbs.db
